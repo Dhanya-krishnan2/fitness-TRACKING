@@ -20,12 +20,12 @@ The user should be able to:
    
    ``
    ## THE OUTPUT SCREENSHOTS ARE GIVEN BELOW
-   ![]()
-   ![]()
-   ![]()
+   ![](/images/2020-09-08%20(2).png)
+   ![](/images/2020-09-08%20(3).png)
+   ![](/images/2020-09-08.png)
 
    ## THE DEPLOYED LINK FOR HEROKU IS GIVEN BELOW:
-      ![HEROKU-LINKS](https://immense-brook-41687.herokuapp.com/stats)
+      ![HEROKU-LINKS] (https://immense-brook-41687.herokuapp.com/stats)
       https://github.com/Dhanya-krishnan2/fitness-TRACKING/blob/master/README.md
       https://github.com/Dhanya-krishnan2/fitness-TRACKING
 
