@@ -25,8 +25,10 @@ The user should be able to:
    ![](/images/2020-09-08.png)
 
    ## THE DEPLOYED LINK FOR HEROKU IS GIVEN BELOW:
-      ![HEROKU-LINKS] (https://immense-brook-41687.herokuapp.com/stats)
+      [HEROKU-LINKS](https://immense-brook-41687.herokuapp.com/stats)
+      
       https://github.com/Dhanya-krishnan2/fitness-TRACKING/blob/master/README.md
+      
       https://github.com/Dhanya-krishnan2/fitness-TRACKING
 
 
